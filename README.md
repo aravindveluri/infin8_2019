@@ -25,6 +25,11 @@ pipenv install
 ```shell
 cd backend
 ```
+##Developing in backend
+1. To use the app as a super user 
+```username: admin``` 
+```password: admin@1234```
+
 
 ## Run the application
 1. Run this command to start the backend server in the ```[backend]``` directory: ```[python manage.py runserver]```
