@@ -25,7 +25,7 @@ pipenv install
 ```shell
 cd backend
 ```
-##Developing in backend
+## Developing in backend
 1. To use the app as a super user 
 ```username: admin``` 
 ```password: admin@1234```
